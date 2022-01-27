@@ -1,0 +1,8 @@
+gem 'rubocop'
+gem 'rspec'
+gem 'pry'
+gem 'dotenv'
+gem 'twitter'
+gem 'tweetstream'
+gem 'nokogiri'
+gem 'colorize'
